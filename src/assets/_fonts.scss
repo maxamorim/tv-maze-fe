@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local('Poppins Medium'), local('Poppins-Medium'),
+    url("@/assets/fonts/Poppins-Medium.ttf")
+}
+
+* {
+    font-family: Poppins;
+    color: #191825;
+}
