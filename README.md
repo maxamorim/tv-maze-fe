@@ -1,7 +1,9 @@
 # About the project
 
 Built on Vue 3 with Vite.
+
 Node version: v18.14.2
+
 npm version: 9.5.0
 
 - I picked up Vue for being a clear and lightweight framework, it shows how clean the architecture and code looks like. Vue has a strong community which helps and developers are stuck with something. I also like the freedom that the framework provides, how easy it is to implement libraries and custom plugins.
